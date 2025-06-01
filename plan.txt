@@ -1,0 +1,21 @@
+steps:
+1. make a blueprint of what to do
+2. things to track:
+secondary:
+* make it use sql / .db
+* categorization of private / group / public access
+* additional things to track:
+    * wardrobe
+    * finances
+    * sleep
+    * browser usage
+    * computer usage
+    * phone usage
+    * exercise
+    * time spent on arbitrary activities
+        * categorization of these activities
+    * skincare / hygiene / medicine
+    * health metrics (weight, rhr, steps, heartrate distribution, etc.)
+* "I want transparency" by rusty cage 'https://www.youtube.com/watch?v=ll8zGaWhofU @ 12 minutes' added somewhere
+scope:
+* 
